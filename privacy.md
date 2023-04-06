@@ -1,4 +1,4 @@
-# Privacy Policy for MekinaTera Android App
+# Privacy Policy for MekinaTera
 
 At MekinaTera, protecting your privacy is very important to us. This Privacy Policy outlines how we collect and use information when you use our mobile application ("App").
 
